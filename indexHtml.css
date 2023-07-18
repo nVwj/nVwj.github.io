@@ -76,11 +76,63 @@
     top: 600px;
 }
 
-@media screen and (max-width:1024px){
+@media screen and (max-width:720px) and (max-height:1280px){
 .navBar {
     position: absolute;
-    left: -20px;
+    left: -377px;
 }
+.imgDiv {
+    position: absolute;
+    left: -475px;
+
+}
+.pic {
+    width: 325px;
+    height: 300px;
+}
+.h1Div {
+    position: absolute;
+    left: -135px;
+    top: 121px;
+}
+.h1 {
+    color: #000000;
+    font-size: 38px;
+}
+.objStmntDiv {
+    color: #000000;
+    font-size: 25px;
+    position: absolute;
+    top: 183px;
+    left: -129px;
+
+
+
+
+
+
+
+
+    width: 315
+.;
+    width: 320px;
+}
+.gridContainer {
+    width: 720px;
+}
+.lowerDiv {
+    position: absolute;
+    top: 456px;
+    left: -480px;
+    width: 700px;
+}
+
+
+
+
+
+
+
 
 
 }
