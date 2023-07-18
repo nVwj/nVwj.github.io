@@ -1,0 +1,28 @@
+@charset "utf-8";
+.bottomDiv {
+    color: #231F20;
+    font-family: "agrandir narrow medium";
+    font-weight: bold;
+    font-size: small;
+    text-align: center;
+    margin-left: 0px;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+    border-left: medium hidden #986B4F;
+    border-right: medium hidden #986B4F;
+    border-bottom: medium hidden #986B4F;
+    border-top: thin solid #986B4F;
+    width: 100%;
+    height: 100%;
+    bottom: 100%;
+    padding-top: 1%;
+    margin-top: 100px;
+}
+.bottomDivPositioning {
+    width: 100%;
+}
+
+.bottomDivLink {
+    color: #231F20;
+    text-decoration: none;
+}

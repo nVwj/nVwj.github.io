@@ -1,0 +1,28 @@
+@charset "utf-8";
+@import url("webfonts/agrandir_narrow_medium/stylesheet.css");
+
+ul li a {
+    width: 100%;
+    text-decoration: none;
+    padding-left: 1%;
+    padding-right: 1%;
+    color: #000000;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+li {
+    text-align: left;
+    display: inline;
+}
+
+.fluid.menu_bar {
+    text-align: center;
+    font-family: "agrandir narrow medium";
+    color: #000000;
+    font-weight: bold;
+}
+.intro_paragraph {
+    width: 100%;
+    padding-bottom: 0px;
+}

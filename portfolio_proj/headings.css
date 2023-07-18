@@ -1,0 +1,38 @@
+@charset "utf-8";
+.resume_heading {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+    color: #000000;
+}
+.resume_text {
+    color: #000000;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-weight: normal;
+    font-size: medium;
+    text-align: left;
+}
+
+.lowerResume_heading {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    color: #000000;
+    font-weight: lighter;
+    font-size: large;
+    text-align: center;
+}
+.resumeSections_heading {
+    color: #000000;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    text-align: left;
+    font-weight: bold;
+    font-size: x-large;
+}
+.resumeBold_text {
+    color: #000000;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-weight: bold;
+    font-size: large;
+}

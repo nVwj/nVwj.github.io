@@ -1,0 +1,89 @@
+@charset "utf-8";
+@import url("webfonts/agrandir_narrow_medium/stylesheet.css");
+@import url("webfonts/agrandir_narrow_medium/stylesheet.css");
+@import url("webfonts/agrandir_narrow_medium/stylesheet.css");
+@import url("webfonts/agrandir_narrow_medium/stylesheet.css");
+
+
+
+
+
+
+.gridContainer {
+    width: 1050px;
+    position: absolute;
+    left: 500px;
+    right: 500px;
+    top: 11px;
+    height: 900px;
+}
+.lowerDiv {
+    color: #000000;
+    font-family: "agrandir narrow medium";
+    font-size: 15px;
+    text-align: center;
+    border-top: thin solid #431516;
+    position: relative;
+    top: 530px;
+}
+.h1 {
+    color: #000000;
+    font-family: "agrandir narrow medium";
+    font-size: 48px;
+    position: absolute;
+    top: 52px;
+    left: 127px;
+    font-weight: bold;
+}
+.h2 {
+    color: #000000;
+    font-family: "agrandir narrow medium";
+    font-size: 34px;
+    position: absolute;
+    top: 101px;
+    left: 569px;
+}
+.nameTxtBox {
+    width: 500px;
+    height: 50px;
+    color: #000000;
+    font-family: Arial;
+    text-align: left;
+    font-size: 20px;
+    left: 262px;
+    position: absolute;
+    top: 209px;
+}
+.emailTxtBox {
+    width: 500px;
+    height: 50px;
+    color: #000000;
+    font-family: Arial;
+    text-align: left;
+    font-size: 20px;
+    left: 262px;
+    position: absolute;
+    top: 285px;
+}
+.msgTxtArea {
+    width: 503px;
+    height: 100px;
+    color: #000000;
+    font-family: Arial;
+    text-align: left;
+    font-size: 20px;
+    left: 262px;
+    position: absolute;
+    top: 363px;
+}
+.submitBtn {
+    width: 150px;
+    height: 43px;
+    color: #000000;
+    font-family: Arial;
+    text-align: center;
+    font-size: 22px;
+    position: absolute;
+    top: 494px;
+    left: 446px;
+}

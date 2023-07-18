@@ -1,0 +1,50 @@
+@charset "utf-8";
+@import url("webfonts/agrandir_narrow_medium/stylesheet.css");
+
+.objStmnt {
+    color: #000000;
+    font-family: Arial;
+    position: absolute;
+    top: 163px;
+    border-bottom: thin solid #000000;
+}
+.resBody {
+    position: absolute;
+    top: 231px;
+    color: #020000;
+    font-family: Arial;
+}
+
+
+.ulBody {
+    font-family: Arial;
+    font-size: 15px;
+}
+.gridContainer {
+    width: 1050px;
+    position: absolute;
+    left: 500px;
+    right: 500px;
+    top: 11px;
+    height: 900px;
+}
+.lowerDiv {
+    color: #000000;
+    font-family: "agrandir narrow medium";
+    font-size: 15px;
+    text-align: center;
+    border-top: thin solid #431516;
+    position: relative;
+    top: 950px;
+}
+
+.h1 {
+    width: 375px;
+    text-align: center;
+    font-size: 19px;
+}
+.resumeHeader {
+    position: absolute;
+    left: 360px;
+    top: 86px;
+}
