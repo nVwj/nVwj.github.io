@@ -26,3 +26,9 @@ li {
     width: 100%;
     padding-bottom: 0px;
 }
+@media screen and (max-width:1024px){
+.navBar {
+}
+
+
+}
